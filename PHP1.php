@@ -1,3 +1,3 @@
-<?php 
-echo "hello github222"
-?>
+<javascript>
+  alert("hello");
+</javascript>
